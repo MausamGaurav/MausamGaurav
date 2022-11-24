@@ -24,11 +24,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br>
-
-<p align="center">
-  <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MausamGaurav&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{MausamGaurav}/count.svg"></p>
